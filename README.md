@@ -57,3 +57,6 @@ Proudly built with **Amazon PartyRock** 💡
 ## 📌 License
 
 This project is for learning purpose – Free for public use and contributions.
+## 📸 Banner
+
+![Talenta AI Banner](https://raw.githubusercontent.com/tomyjah/talenta-ai-career-coach/main/Talenta-AI-Banner.png)
