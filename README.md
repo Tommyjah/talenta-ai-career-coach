@@ -59,4 +59,4 @@ Proudly built with **Amazon PartyRock** 💡
 This project is for learning purpose – Free for public use and contributions.
 ## 📸 Banner
 
-![Talenta AI Banner](Adobe Express - file (1))
+![Talenta AI Banner](Adobe Express - file (1).png)
