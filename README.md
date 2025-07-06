@@ -1,3 +1,6 @@
+## 📸 Banner
+
+![Talenta AI Banner](https://github.com/Tommyjah/talenta-ai-career-coach/blob/main/Adobe%20Express%20-%20file%20(1).png?raw=true)
 # Talenta AI Career Coach
 
 🚀 **No-code AI career assistant built with Amazon PartyRock**
@@ -57,6 +60,4 @@ Proudly built with **Amazon PartyRock** 💡
 ## 📌 License
 
 This project is for learning purpose – Free for public use and contributions.
-## 📸 Banner
 
-![Talenta AI Banner](https://github.com/Tommyjah/talenta-ai-career-coach/blob/main/Adobe%20Express%20-%20file%20(1).png?raw=true)
