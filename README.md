@@ -46,7 +46,7 @@ Built using [Amazon PartyRock](https://partyrock.aws), this project empowers sel
 
 ## 📸 Banner
 
-![Talenta AI Banner](https://chat.openai.com/cdn/pub/redirect/Talenta-AI-Banner) <!-- You can replace this with a real image URL once hosted -->
+![Talenta AI Banner](https://github.com/Tommyjah/talenta-ai-career-coach/blob/main/Adobe%20Express%20-%20file%20(1).png?raw=true) <!-- You can replace this with a real image URL once hosted -->
 
 ---
 
